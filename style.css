@@ -25,7 +25,7 @@ main{
   background-color: #fff;
 }
 .picture{
-  background-image: url("/images/drawers.jpg");
+  background-image: url("images/drawers.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   flex: 2;
