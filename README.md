@@ -18,6 +18,6 @@ The component shows an article preview with an image, title, author and social m
 
 v1.0 - Initial release
 
-## Author Info
+## gitAuthor Info
 
 This project was created by Nika Onezashvili ([Your GitHub Profile Link]). You can contact me at nikoloz32@yahoo.com 
